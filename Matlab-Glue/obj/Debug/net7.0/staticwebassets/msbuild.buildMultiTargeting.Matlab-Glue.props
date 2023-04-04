@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Matlab-Glue.props" />
+</Project>
